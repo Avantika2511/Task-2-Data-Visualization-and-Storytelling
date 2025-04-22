@@ -19,7 +19,7 @@ To master the art of **data visualization and storytelling** by:
 
 ## 📂 Files Included
 
-- `Superstore_Sales.pbix` – Power BI report file
+- `Task 2` - Folder in which ....
 - `superstore.csv` – Dataset used for visualizations
 - `dashboard_screenshots/` – Exported visuals (for preview)
 - `README.md` – Project description
